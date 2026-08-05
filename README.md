@@ -2,7 +2,7 @@
 
 A real-time password strength auditor built with vanilla HTML, CSS, and JavaScript — no frameworks, no dependencies, runs entirely in the browser.
 
-**[Live Demo](#)** *(add your GitHub Pages link here once enabled)*
+**[Live Demo](https://danu05shya-ui.github.io/password-strength-checker/)**
 
 ## Features
 
